@@ -1,0 +1,13 @@
+DATASET REQUIRED
+
+1. Download the Bengaluru House Price dataset (commonly named Bengaluru_House_Data.csv).
+2. Make sure the CSV contains these columns:
+   location, total_sqft, size, bath, price
+3. Place the CSV in this same folder.
+4. Keep the filename exactly:
+   Bengaluru_House_Data.csv
+5. Then run:
+   python train_model.py
+
+The dataset is not bundled in this starter folder. Use the dataset specified/approved
+by your faculty or the Kaggle Bengaluru House Price dataset.
